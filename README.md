@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @artikbharoliya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Namaste, I’m @artikbharoliya
 
-<!---
-artikbharoliya/artikbharoliya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a software engineer based in [Vancouver](https://vancouver.ca/), Canada🍁.
+
+I am from [Surat](https://en.wikipedia.org/wiki/Surat), India. 
+
+
+
+### Highlighted projects:
+
+[Image Manipulator](https://github.com/artikbharoliya/Image-Manipulation)
+
+[Slack UI Cone](https://github.com/artikbharoliya/slack-clone)
+
+
+
+## I Love:
+
+Coding, Maps, Cars, Cooking, Traveling, Films, Gadgets, Games [Basically all nerdy stuff] .... 
